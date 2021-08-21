@@ -1,0 +1,594 @@
+﻿[
+  {
+    "Id_Venue": 30,
+    "conference name": "international conference of the ieee engineering in medicine and biology society"
+  },
+  {
+    "Id_Venue": 65,
+    "conference name": "robot and human interactive communication"
+  },
+  {
+    "Id_Venue": 104,
+    "conference name": "symposium on principles of database systems"
+  },
+  {
+    "Id_Venue": 122,
+    "conference name": "acm sigplan symposium on principles and practice of parallel programming"
+  },
+  {
+    "Id_Venue": 208,
+    "conference name": "mobile adhoc and sensor systems"
+  },
+  {
+    "Id_Venue": 235,
+    "conference name": "international conference on computational linguistics"
+  },
+  {
+    "Id_Venue": 256,
+    "conference name": "international conference on learning representations"
+  },
+  {
+    "Id_Venue": 293,
+    "conference name": "passive and active network measurement"
+  },
+  {
+    "Id_Venue": 339,
+    "conference name": "computer and communications security"
+  },
+  {
+    "Id_Venue": 343,
+    "conference name": "hot topics in networks"
+  },
+  {
+    "Id_Venue": 344,
+    "conference name": "conference of the european chapter of the association for computational linguistics"
+  },
+  {
+    "Id_Venue": 369,
+    "conference name": "vehicular technology conference"
+  },
+  {
+    "Id_Venue": 374,
+    "conference name": "european symposium on research in computer security"
+  },
+  {
+    "Id_Venue": 390,
+    "conference name": "international symposium on biomedical imaging"
+  },
+  {
+    "Id_Venue": 422,
+    "conference name": "knowledge discovery and data mining"
+  },
+  {
+    "Id_Venue": 507,
+    "conference name": "international conference on management of data"
+  },
+  {
+    "Id_Venue": 517,
+    "conference name": "international conference on software testing verification and validation"
+  },
+  {
+    "Id_Venue": 535,
+    "conference name": "ieee automatic speech recognition and understanding workshop"
+  },
+  {
+    "Id_Venue": 8228,
+    "conference name": "international conference on communications"
+  },
+  {
+    "Id_Venue": 8231,
+    "conference name": "pacific-asia conference on knowledge discovery and data mining"
+  },
+  {
+    "Id_Venue": 8235,
+    "conference name": "international conference on data engineering"
+  },
+  {
+    "Id_Venue": 8306,
+    "conference name": "international symposium on computer architecture"
+  },
+  {
+    "Id_Venue": 8335,
+    "conference name": "asia and south pacific design automation conference"
+  },
+  {
+    "Id_Venue": 8385,
+    "conference name": "foundations of software engineering"
+  },
+  {
+    "Id_Venue": 8422,
+    "conference name": "computer aided verification"
+  },
+  {
+    "Id_Venue": 8441,
+    "conference name": "american control conference"
+  },
+  {
+    "Id_Venue": 8494,
+    "conference name": "international symposium on circuits and systems"
+  },
+  {
+    "Id_Venue": 8500,
+    "conference name": "international solid-state circuits conference"
+  },
+  {
+    "Id_Venue": 8502,
+    "conference name": "workshop on applications of computer vision"
+  },
+  {
+    "Id_Venue": 8806,
+    "conference name": "acm symposium on applied computing"
+  },
+  {
+    "Id_Venue": 8839,
+    "conference name": "acm ieee international conference on mobile computing and networking"
+  },
+  {
+    "Id_Venue": 8840,
+    "conference name": "empirical methods in natural language processing"
+  },
+  {
+    "Id_Venue": 8868,
+    "conference name": "international symposium on software testing and analysis"
+  },
+  {
+    "Id_Venue": 8884,
+    "conference name": "international semantic web conference"
+  },
+  {
+    "Id_Venue": 8912,
+    "conference name": "dependable systems and networks"
+  },
+  {
+    "Id_Venue": 8927,
+    "conference name": "web search and data mining"
+  },
+  {
+    "Id_Venue": 8960,
+    "conference name": "neural information processing systems"
+  },
+  {
+    "Id_Venue": 8967,
+    "conference name": "usenix conference on file and storage technologies"
+  },
+  {
+    "Id_Venue": 9004,
+    "conference name": "medical image computing and computer assisted intervention"
+  },
+  {
+    "Id_Venue": 9015,
+    "conference name": "international conference on embedded networked sensor systems"
+  },
+  {
+    "Id_Venue": 9078,
+    "conference name": "international conference on image processing"
+  },
+  {
+    "Id_Venue": 9080,
+    "conference name": "genetic and evolutionary computation conference"
+  },
+  {
+    "Id_Venue": 9099,
+    "conference name": "acm multimedia"
+  },
+  {
+    "Id_Venue": 9244,
+    "conference name": "high performance distributed computing"
+  },
+  {
+    "Id_Venue": 9436,
+    "conference name": "requirements engineering"
+  },
+  {
+    "Id_Venue": 9438,
+    "conference name": "conference on advanced information systems engineering"
+  },
+  {
+    "Id_Venue": 9463,
+    "conference name": "north american chapter of the association for computational linguistics"
+  },
+  {
+    "Id_Venue": 9475,
+    "conference name": "conference on decision and control"
+  },
+  {
+    "Id_Venue": 9577,
+    "conference name": "international joint conference on neural network"
+  },
+  {
+    "Id_Venue": 9579,
+    "conference name": "human robot interaction"
+  },
+  {
+    "Id_Venue": 9589,
+    "conference name": "conference on emerging network experiment and technology"
+  },
+  {
+    "Id_Venue": 9616,
+    "conference name": "international conference on pattern recognition"
+  },
+  {
+    "Id_Venue": 9677,
+    "conference name": "international joint conference on natural language processing"
+  },
+  {
+    "Id_Venue": 9704,
+    "conference name": "congress on evolutionary computation"
+  },
+  {
+    "Id_Venue": 9713,
+    "conference name": "advances in geographic information systems"
+  },
+  {
+    "Id_Venue": 9748,
+    "conference name": "international conference on parallel processing"
+  },
+  {
+    "Id_Venue": 9766,
+    "conference name": "network and distributed system security symposium"
+  },
+  {
+    "Id_Venue": 9772,
+    "conference name": "symposium on cloud computing"
+  },
+  {
+    "Id_Venue": 9773,
+    "conference name": "international conference on document analysis and recognition"
+  },
+  {
+    "Id_Venue": 9804,
+    "conference name": "conference of the international speech communication association"
+  },
+  {
+    "Id_Venue": 9836,
+    "conference name": "international symposium on microarchitecture"
+  },
+  {
+    "Id_Venue": 9856,
+    "conference name": "annual computer security applications conference"
+  },
+  {
+    "Id_Venue": 9874,
+    "conference name": "applied cryptography and network security"
+  },
+  {
+    "Id_Venue": 9896,
+    "conference name": "conference on computer supported cooperative work"
+  },
+  {
+    "Id_Venue": 9913,
+    "conference name": "personal indoor and mobile radio communications"
+  },
+  {
+    "Id_Venue": 9969,
+    "conference name": "international cryptology conference"
+  },
+  {
+    "Id_Venue": 10140,
+    "conference name": "ieee international conference on automatic face and gesture recognition"
+  },
+  {
+    "Id_Venue": 10162,
+    "conference name": "ieee international conference on pervasive computing and communications"
+  },
+  {
+    "Id_Venue": 10174,
+    "conference name": "international conference on automated planning and scheduling"
+  },
+  {
+    "Id_Venue": 10192,
+    "conference name": "international conference on computer communications and networks"
+  },
+  {
+    "Id_Venue": 10228,
+    "conference name": "wireless communications and networking conference"
+  },
+  {
+    "Id_Venue": 10237,
+    "conference name": "conference on recommender systems"
+  },
+  {
+    "Id_Venue": 10286,
+    "conference name": "public key cryptography"
+  },
+  {
+    "Id_Venue": 10973,
+    "conference name": "logic in computer science"
+  },
+  {
+    "Id_Venue": 10994,
+    "conference name": "asian conference on computer vision"
+  },
+  {
+    "Id_Venue": 11052,
+    "conference name": "european conference on computer vision"
+  },
+  {
+    "Id_Venue": 11058,
+    "conference name": "programming language design and implementation"
+  },
+  {
+    "Id_Venue": 11104,
+    "conference name": "international geoscience and remote sensing symposium"
+  },
+  {
+    "Id_Venue": 11157,
+    "conference name": "high performance computer architecture"
+  },
+  {
+    "Id_Venue": 11166,
+    "conference name": "international conference on data mining"
+  },
+  {
+    "Id_Venue": 11187,
+    "conference name": "international conference on artificial neural networks"
+  },
+  {
+    "Id_Venue": 11223,
+    "conference name": "operating systems design and implementation"
+  },
+  {
+    "Id_Venue": 11317,
+    "conference name": "user interface software and technology"
+  },
+  {
+    "Id_Venue": 11321,
+    "conference name": "international conference on machine learning"
+  },
+  {
+    "Id_Venue": 11330,
+    "conference name": "international conference on supercomputing"
+  },
+  {
+    "Id_Venue": 11345,
+    "conference name": "international conference on the theory and application of cryptology and information security"
+  },
+  {
+    "Id_Venue": 11375,
+    "conference name": "european conference on computer systems"
+  },
+  {
+    "Id_Venue": 11470,
+    "conference name": "international conference on multimedia and expo"
+  },
+  {
+    "Id_Venue": 11491,
+    "conference name": "international conference on multimedia retrieval"
+  },
+  {
+    "Id_Venue": 11529,
+    "conference name": "international conference on acoustics speech and signal processing"
+  },
+  {
+    "Id_Venue": 20202,
+    "conference name": "international conference on networks and communications"
+  },
+  {
+    "Id_Venue": 20332,
+    "conference name": "national conference on artificial intelligence"
+  },
+  {
+    "Id_Venue": 20338,
+    "conference name": "internet measurement conference"
+  },
+  {
+    "Id_Venue": 20348,
+    "conference name": "information processing in sensor networks"
+  },
+  {
+    "Id_Venue": 20349,
+    "conference name": "networked systems design and implementation"
+  },
+  {
+    "Id_Venue": 20358,
+    "conference name": "international world wide web conferences"
+  },
+  {
+    "Id_Venue": 20411,
+    "conference name": "international acm sigir conference on research and development in information retrieval"
+  },
+  {
+    "Id_Venue": 20430,
+    "conference name": "design automation and test in europe"
+  },
+  {
+    "Id_Venue": 20515,
+    "conference name": "international conference on biometrics"
+  },
+  {
+    "Id_Venue": 20524,
+    "conference name": "automated software engineering"
+  },
+  {
+    "Id_Venue": 20552,
+    "conference name": "uncertainty in artificial intelligence"
+  },
+  {
+    "Id_Venue": 20561,
+    "conference name": "hawaii international conference on system sciences"
+  },
+  {
+    "Id_Venue": 20592,
+    "conference name": "usenix security symposium"
+  },
+  {
+    "Id_Venue": 20649,
+    "conference name": "design automation conference"
+  },
+  {
+    "Id_Venue": 20754,
+    "conference name": "ieee symposium on security and privacy"
+  },
+  {
+    "Id_Venue": 20774,
+    "conference name": "acm symposium on parallel algorithms and architectures"
+  },
+  {
+    "Id_Venue": 20796,
+    "conference name": "conference on information and knowledge management"
+  },
+  {
+    "Id_Venue": 20854,
+    "conference name": "designing interactive systems"
+  },
+  {
+    "Id_Venue": 20876,
+    "conference name": "usenix technical conference"
+  },
+  {
+    "Id_Venue": 20896,
+    "conference name": "international conference on cyber-physical systems"
+  },
+  {
+    "Id_Venue": 21022,
+    "conference name": "symposium on operating systems principles"
+  },
+  {
+    "Id_Venue": 21056,
+    "conference name": "acm sigmm conference on multimedia systems"
+  },
+  {
+    "Id_Venue": 21066,
+    "conference name": "modeling and optimization in mobile ad hoc and wireless networks"
+  },
+  {
+    "Id_Venue": 21089,
+    "conference name": "meeting of the association for computational linguistics"
+  },
+  {
+    "Id_Venue": 21102,
+    "conference name": "ieee international conference on fuzzy systems"
+  },
+  {
+    "Id_Venue": 21106,
+    "conference name": "international conference on computer vision"
+  },
+  {
+    "Id_Venue": 21855,
+    "conference name": "acm/ieee international conference on mobile computing and networking"
+  },
+  {
+    "Id_Venue": 21989,
+    "conference name": "international conference on human-computer interaction"
+  },
+  {
+    "Id_Venue": 22021,
+    "conference name": "international symposium on information theory"
+  },
+  {
+    "Id_Venue": 22035,
+    "conference name": "quality of multimedia experience"
+  },
+  {
+    "Id_Venue": 22051,
+    "conference name": "siam international conference on data mining"
+  },
+  {
+    "Id_Venue": 22086,
+    "conference name": "international conference on mobile systems applications and services"
+  },
+  {
+    "Id_Venue": 22113,
+    "conference name": "international joint conference on artificial intelligence"
+  },
+  {
+    "Id_Venue": 22130,
+    "conference name": "british machine vision conference"
+  },
+  {
+    "Id_Venue": 22164,
+    "conference name": "conference on information sciences and systems"
+  },
+  {
+    "Id_Venue": 22221,
+    "conference name": "ieee european symposium on security and privacy"
+  },
+  {
+    "Id_Venue": 22232,
+    "conference name": "tools and algorithms for construction and analysis of systems"
+  },
+  {
+    "Id_Venue": 22260,
+    "conference name": "international conference on distributed computing systems"
+  },
+  {
+    "Id_Venue": 22279,
+    "conference name": "advanced video and signal based surveillance"
+  },
+  {
+    "Id_Venue": 22288,
+    "conference name": "international conference on cloud computing"
+  },
+  {
+    "Id_Venue": 23497,
+    "conference name": "architectural support for programming languages and operating systems"
+  },
+  {
+    "Id_Venue": 23593,
+    "conference name": "field programmable gate arrays"
+  },
+  {
+    "Id_Venue": 23619,
+    "conference name": "european semantic web conference"
+  },
+  {
+    "Id_Venue": 23620,
+    "conference name": "symposium on principles of programming languages"
+  },
+  {
+    "Id_Venue": 23634,
+    "conference name": "foundations of computer science"
+  },
+  {
+    "Id_Venue": 23653,
+    "conference name": "mobile ad hoc networking and computing"
+  },
+  {
+    "Id_Venue": 23684,
+    "conference name": "symposium on discrete algorithms"
+  },
+  {
+    "Id_Venue": 23712,
+    "conference name": "international conference on network protocols"
+  },
+  {
+    "Id_Venue": 23735,
+    "conference name": "intelligent robots and systems"
+  },
+  {
+    "Id_Venue": 23749,
+    "conference name": "cluster computing and the grid"
+  },
+  {
+    "Id_Venue": 23757,
+    "conference name": "advances in social networks analysis and mining"
+  },
+  {
+    "Id_Venue": 23827,
+    "conference name": "international conference on software engineering"
+  },
+  {
+    "Id_Venue": 23836,
+    "conference name": "international parallel and distributed processing symposium"
+  },
+  {
+    "Id_Venue": 23845,
+    "conference name": "robotics: science and systems"
+  },
+  {
+    "Id_Venue": 23865,
+    "conference name": "mining software repositories"
+  },
+  {
+    "Id_Venue": 23876,
+    "conference name": "international conference on program comprehension"
+  },
+  {
+    "Id_Venue": 23907,
+    "conference name": "custom integrated circuits conference"
+  },
+  {
+    "Id_Venue": 23922,
+    "conference name": "computational learning theory"
+  }
+]
